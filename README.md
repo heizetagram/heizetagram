@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/heizetagram">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heizetagram&theme=chartreuse-dark&text_bold=false&show_icons=true&icon_color=7fff00&text_color=f0f6fc&border_color=f0f6fc&card_width=359" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heizetagram&layout=compact&theme=chartreuse-dark&langs_count=8&text_color=f0f6fc&border_color=f0f6fc&card_width=320" />
+</a>
+<br><br>
+<a href="https://github.com/heizetagram">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heizetagram&layout=compact&theme=chartreuse-dark&langs_count=8&text_color=f0f6fc&border_color=f0f6fc&card_width=349" />
 </a>
