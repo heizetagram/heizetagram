@@ -1,4 +1,3 @@
-## heizetagram
 <!--
 **heizetagram/heizetagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heizetagram&theme=chartreuse-dark" />
-
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heizetagram&layout=compact&theme=chartreuse-dark&langs_count=8&card_width=359" />
