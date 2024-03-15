@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/heizetagram">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heizetagram&theme=chartreuse-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heizetagram&theme=chartreuse-dark&text_bold=false" />
 </a>
 <br><br>
 <a href="https://github.com/heizetagram">
